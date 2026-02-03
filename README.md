@@ -49,7 +49,8 @@ An application to track and manage personal expenses with structured data storag
 ---
 
 ## 📊 GitHub Activity
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=premhage&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com?user=premhage&theme=dark)
+
 
 ---
 
